@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictonary", "MyDictonary\MyDictonary.csproj", "{2EF0CE96-C196-404A-9AA3-301BC254A4D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF0CE96-C196-404A-9AA3-301BC254A4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF0CE96-C196-404A-9AA3-301BC254A4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF0CE96-C196-404A-9AA3-301BC254A4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF0CE96-C196-404A-9AA3-301BC254A4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ACB3D62-E230-44C3-BA9F-EFF5B43E40B5}
+	EndGlobalSection
+EndGlobal
